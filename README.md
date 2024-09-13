@@ -4,11 +4,11 @@
 
 Hey there! I'm Jessica (also known as Lan Dang, but Jessica is my preferred name). Nice to meet you! 👋
 
-![A pretty picture of Jessica](C:\Users\jessi\Downloads\Photo of Jessica.jpg)
+![A pretty picture of Jessica](C:/Users/jessi/Downloads/Photo of Jessica.jpg)
 
 ## What am I up to?
 
-I'm currently in my 4th year, rocking a double major in Neuroscience and 'Biochemistry and Molecular Biology'(sounds boring right, I know and I feel it too).
+I'm currently in my 4th year, rocking a double major in Neuroscience and 'Biochemistry and Molecular Biology (sounds boring right, I know and I feel it too).
 
 ## My academic journey
 
@@ -33,8 +33,8 @@ In essence, I'm fascinated by how "the brain makes us behave as we do." 🧠✨
 ## What's next for me?
 
 My ultimate goal right now is to get into medical school. However, as an international student, there are some hurdles to overcome:
-1. I'm not currently eligible to apply to most medical school in Canada (as of my international status).
-2. Even if I were, the tuition fees are astronomical! 💸
+- I'm not currently eligible to apply to most medical school in Canada (as of my international status).
+- Even if I were, the tuition fees are astronomical! 💸
 
 So here's my game plan:
 1. Graduate with my double major.
