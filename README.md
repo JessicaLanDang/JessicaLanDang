@@ -4,7 +4,7 @@
 
 Hey there! I'm Jessica (also known as Lan Dang, but Jessica is my preferred name). Nice to meet you! 👋
 
-![A pretty picture of Jessica](./C:/Users/jessi/Downloads/Photo of Jessica.jpg)
+![A pretty picture of Jessica](https://github.com/user-attachments/assets/ecd0df87-4d43-4690-81e6-a2c630bea69e)
 
 ## What am I up to?
 
