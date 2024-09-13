@@ -8,7 +8,7 @@ Hey there! I'm <mark>**Jessica**</mark> (also known as *Lan Dang*, but **Jessica
 
 ## What am I up to?
 
-I'm currently in my 4th year, rocking a double major in Neuroscience and 'Biochemistry and Molecular Biology *(sounds boring right, I know and I feel it too)*.
+I'm currently in my 4th year, rocking a double major in Neuroscience and 'Biochemistry and Molecular Biology' *(sounds boring right, I know and I feel it too)*.
 
 ## My academic journey
 
